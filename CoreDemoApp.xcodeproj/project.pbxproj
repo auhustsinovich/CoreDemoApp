@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A532F93E28106E56005B1807 /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A532F93D28106E56005B1807 /* StorageManager.swift */; };
 		A85E83F5280DD14900FB6B82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85E83F4280DD14900FB6B82 /* AppDelegate.swift */; };
 		A85E83F7280DD14900FB6B82 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85E83F6280DD14900FB6B82 /* SceneDelegate.swift */; };
 		A85E83F9280DD14900FB6B82 /* TaskListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85E83F8280DD14900FB6B82 /* TaskListViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A532F93D28106E56005B1807 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		A85E83F1280DD14900FB6B82 /* CoreDemoApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CoreDemoApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A85E83F4280DD14900FB6B82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A85E83F6280DD14900FB6B82 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				A85E83F4280DD14900FB6B82 /* AppDelegate.swift */,
 				A85E83F6280DD14900FB6B82 /* SceneDelegate.swift */,
 				A85E83F8280DD14900FB6B82 /* TaskListViewController.swift */,
+				A532F93D28106E56005B1807 /* StorageManager.swift */,
 				A85E8400280DD14A00FB6B82 /* Assets.xcassets */,
 				A85E8402280DD14A00FB6B82 /* LaunchScreen.storyboard */,
 				A85E8405280DD14A00FB6B82 /* Info.plist */,
@@ -139,6 +142,7 @@
 			files = (
 				A85E83F9280DD14900FB6B82 /* TaskListViewController.swift in Sources */,
 				A85E83F5280DD14900FB6B82 /* AppDelegate.swift in Sources */,
+				A532F93E28106E56005B1807 /* StorageManager.swift in Sources */,
 				A85E83F7280DD14900FB6B82 /* SceneDelegate.swift in Sources */,
 				A85E83FF280DD14900FB6B82 /* CoreDemoApp.xcdatamodeld in Sources */,
 			);
